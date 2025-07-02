@@ -30,27 +30,14 @@ New folder/
 - Change the startup name, colors, or content in `index.html` and `styles.css` as needed.
 - Add or remove features, testimonials, or pricing plans by editing the HTML.
 
-## 🌐 Deployment
-You can deploy this landing page for free using platforms like:
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 
 **To deploy on GitHub Pages:**
 1. Push your code to a GitHub repository.
 2. Go to repository settings > Pages > Source: select `main` branch and `/root`.
 3. Your site will be live at `https://yourusername.github.io/your-repo-name/`.
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](assets/screenshot-desktop.png)
-
-### Mobile View
-![Mobile Screenshot](assets/screenshot-mobile.png)
-
 ## 📧 Contact
 For any questions or feedback, use the contact form on the landing page!
 
 ---
-© 2024 SkyRocket. All rights reserved. 
+© 2025 SkyRocket. All rights reserved. 
